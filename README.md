@@ -15,3 +15,7 @@ Welcome to the **TankWars** repository! This is a 2D tank battle game where youâ
 - **Tank 2**: Use arrow keys for movement, `Up/Down` to rotate turret, `Enter` to shoot.
 
 Perfect your strategy and become the ultimate tank commander in this fast-paced, action-packed game!
+
+## Source code
+
+All source code files used for this game can be found at the following path: "gfx-framework/src/lab_m1/lab3"
